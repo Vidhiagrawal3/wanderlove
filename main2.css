@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(183, 255, 231);
+}
+.topnav a{
+    text-decoration: none;
+    min-height: 16px;
+    text-align: center;
+    padding: 14px;
+    color: white;
+    font-size: 18px;
+    margin:auto;
+}
