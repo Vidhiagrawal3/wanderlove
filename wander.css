@@ -359,7 +359,6 @@ ul.topnav li a {
     padding: 14px;
     color: white;
     font-size: 18px;
-    font-family: 'Benton Sans', 'Helvetica Neue', 'Helvetica';
 }
 
 ul.topnav li a:hover {
@@ -400,7 +399,6 @@ ul.topnav li.dropdownIcon {
         padding: 14px;
         color: white;
         font-size: 18px;
-        font-family: 'Benton Sans', 'Helvetica Neue', 'Helvetica';
     }
     ul.topnav.responsive li a:hover {
         background-color: white;
